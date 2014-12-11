@@ -1,4 +1,4 @@
-BCT - Binarization and Converstion Tool
+BCT - Binarization and Conversion Tool
 ------------------------------------------
 
 This tool is a simple command line wrapper written in C# to create binarized and compact viewing files from large document images files.
